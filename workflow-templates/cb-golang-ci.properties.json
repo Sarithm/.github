@@ -1,0 +1,12 @@
+{
+  "name": "Sarithm Organization Workflow",
+  "description": "Sarithm Organization CI workflow template.",
+  "iconName": "Freesample",
+  "categories": [
+      "Go"
+  ],
+  "filePatterns": [
+      "^Dockerfile",
+      ".*\\.md$"
+  ]
+}
